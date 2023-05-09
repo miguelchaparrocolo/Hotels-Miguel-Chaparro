@@ -3,7 +3,7 @@
 
 ## Description
 
-Este es un repositorio del frontend de una aplicación que sirve como direcorio de Hoteles, de forma que se vincule con el backend para guardar los datos de edición en el directorio, como editar, eliminar y agregar
+Este es un repositorio del frontend de una aplicación que sirve como direcorio de Hoteles, de forma que se vincule con el backend para guardar los datos de edición en el directorio, como editar, eliminar y agregar; para poder hacer uso de esta te invitamos al siguiente save link https://proyecto-parejas-hotels-idc5nulit-guialexander.vercel.app/
 
 ## Estado del repositorio
 
